@@ -1,1 +1,2 @@
-VGhpcyBwcm9qZWN0IGlzIHVzZWQgZm9yIG1jcCB0ZXN0aW5nLgpJdCBhZG9wdHMgdGhlIE1JVCBsaWNlbnNlOiBbTWl0XSggaHR0cHM6Ly9taXQuY29tL2xpY2Vuc2UgKS4=
+This project is used for mcp testing.
+It adopts the MIT license: [Mit]( https://mit.com/license ).
